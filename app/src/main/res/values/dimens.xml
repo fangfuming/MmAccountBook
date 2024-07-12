@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  BottomNavigationView 防止字体出现变大效果  -->
+    <dimen name="design_bottom_navigation_active_text_size">10sp</dimen>
+    <dimen name="design_bottom_navigation_text_size">10sp</dimen>
+    <dimen name="fixed_height_bottom_padding">5dp</dimen>
+    <dimen name="design_bottom_navigation_height">48dp</dimen>
+    <dimen name="design_bottom_navigation_margin">4dp</dimen>
+</resources>
